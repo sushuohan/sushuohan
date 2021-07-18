@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sushuohan
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on studing
+- 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me 483517937@qq.com
 
 <!---
